@@ -17,6 +17,7 @@ namespace Scenario_outline_demo_specflow.StepDefinitions
         {
             driver = new ChromeDriver();
             Console.WriteLine("=========>>>>   i m in WhenEnterTheUrl() method  ");
+            Console.WriteLine("=========>>>>   i m in WhenEnterTheUr222 () method  ");
             String test_url = "https://www.rediff.com/";
             driver.Url = test_url;
         }
