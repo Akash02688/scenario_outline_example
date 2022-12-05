@@ -13,7 +13,7 @@ Scenario Outline: Successful Login with Valid Credentials
 Examples:
 | username   | password |
 | pravin | pravin@123 |
-| vaishali | vaishali@153 |
+| AAKASH | vaishali@153 |
 | sanjay | sanjay@123 |
 | pranit | pranit@153 |
 
