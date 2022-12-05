@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "\\bin",
+    "\\Drivers",
+    "\\Features",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net6.0",
+    "\\obj\\Release",
+    "\\obj\\Release\\net6.0"
+  ],
+  "PreviewInSolutionExplorer": false
+}
