@@ -27,7 +27,7 @@ namespace Scenario_outline_demo_specflow.StepDefinitions
             Console.WriteLine("=========>>>>   i m in ThenClickOnLoginLink() method  ");
             driver.FindElement(By.LinkText("Sign in")).Click();
         }
-
+// here i have added one comment 
         [When(@"User enter (.*) and (.*)")]
         public void WhenUserEnterAnd(string username, string password)
         {
@@ -62,6 +62,7 @@ namespace Scenario_outline_demo_specflow.StepDefinitions
         {
             Console.WriteLine(" i m in logout method ");
            // driver.Close();
+             Console.WriteLine(" i m in logout99 method ");
         }
     }
 }
